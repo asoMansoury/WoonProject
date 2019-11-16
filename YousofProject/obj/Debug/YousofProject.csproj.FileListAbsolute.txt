@@ -1,0 +1,12 @@
+C:\Users\mansoury\Documents\Visual Studio 2017\Projects\YousofProject\YousofProject\bin\Debug\YousofProject.exe
+C:\Users\mansoury\Documents\Visual Studio 2017\Projects\YousofProject\YousofProject\bin\Debug\YousofProject.pdb
+C:\Users\mansoury\Documents\Visual Studio 2017\Projects\YousofProject\YousofProject\bin\Debug\WebDriver.dll
+C:\Users\mansoury\Documents\Visual Studio 2017\Projects\YousofProject\YousofProject\bin\Debug\WebDriver.xml
+C:\Users\mansoury\Documents\Visual Studio 2017\Projects\YousofProject\YousofProject\obj\Debug\YousofProject.csprojAssemblyReference.cache
+C:\Users\mansoury\Documents\Visual Studio 2017\Projects\YousofProject\YousofProject\obj\Debug\YousofProject.Form1.resources
+C:\Users\mansoury\Documents\Visual Studio 2017\Projects\YousofProject\YousofProject\obj\Debug\YousofProject.Properties.Resources.resources
+C:\Users\mansoury\Documents\Visual Studio 2017\Projects\YousofProject\YousofProject\obj\Debug\YousofProject.csproj.GenerateResource.cache
+C:\Users\mansoury\Documents\Visual Studio 2017\Projects\YousofProject\YousofProject\obj\Debug\YousofProject.csproj.CoreCompileInputs.cache
+C:\Users\mansoury\Documents\Visual Studio 2017\Projects\YousofProject\YousofProject\obj\Debug\YousofProject.csproj.CopyComplete
+C:\Users\mansoury\Documents\Visual Studio 2017\Projects\YousofProject\YousofProject\obj\Debug\YousofProject.exe
+C:\Users\mansoury\Documents\Visual Studio 2017\Projects\YousofProject\YousofProject\obj\Debug\YousofProject.pdb
